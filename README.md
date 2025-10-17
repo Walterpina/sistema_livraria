@@ -1,4 +1,4 @@
-# ☕ Projeto de Treino e Reapredizagem em Java
+# ☕ Projeto de Treino e Reaprendizagem em Java
 
 **⚠️ AVISO:** Este é um código de **estudo**. Ele pode não seguir as melhores práticas de produção em todos os casos, pois o foco principal é a **exploração e experimentação** dos recursos da linguagem.
 
